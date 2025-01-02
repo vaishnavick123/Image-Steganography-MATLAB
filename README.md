@@ -13,5 +13,5 @@ This mini-project demonstrates a simple image steganography technique to hide an
 # Usage
 - Place your image (e.g., rose.jpg) and text files (e.g., text.txt) in their respective paths.
 - Run the provided MATLAB scripts:
-  Encryption: encryption.m
-  Decryption: decryption.m
+  encryption.m
+  decryption.m
